@@ -1,0 +1,15 @@
+.clear-completed {
+    background-color: #f44336; 
+    color: white;
+    border: none;
+    padding: 10px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .clear-completed:hover {
+    background-color: #d32f2f;
+  }
+  

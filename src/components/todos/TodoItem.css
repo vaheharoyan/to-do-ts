@@ -1,0 +1,21 @@
+.todo-buttons {
+    display: flex;
+    gap: 8px;
+    margin-left: auto;
+  }
+  
+  .todo-buttons button {
+    color: white;
+    background-color: #43a047;
+    border: none;
+    border-radius: 6px;
+    padding: 6px 10px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .todo-buttons button:hover {
+    background-color: #43a047;
+  }
+  
